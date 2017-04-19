@@ -11,3 +11,6 @@ add in v1.0
 222
 iloveyou
 i hate you
+
+
+ีýนคิฺ
