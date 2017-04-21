@@ -2,6 +2,11 @@
 45689
 helotestsstswdor
 匮联想集团
+<<<<<<< HEAD
 陈子轩asdfasdfa加的中文
+=======
+陈子轩新加的中文
+ffffffffffffffffffff
+>>>>>>> 1082edcdc0df8c473c812c623d0f5c81378c6532
 fast
 阿斯顿发生大法师
