@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 12345
 45689
 helotestsstswdor
@@ -5,3 +6,11 @@ helotestsstswdor
 this is 421
 thi is 422
 ffffff
+=======
+asdfasdfs
+
+dfgdsfgdfg
+
+
+的更符合法规和
+>>>>>>> ss
